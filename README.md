@@ -1,4 +1,8 @@
-### study-of-basic-gates
+**NAME:LAAVANYA.R**
+
+**REFERENCE NUMBER:24005572**
+
+ STUDY OF BASCIS OF LOGIC GATES
 
 **AIM:** 
 
@@ -64,16 +68,32 @@ Y= A⊕B
 
 **PROGRAM**
 
+![Screenshot 2024-12-29 105431](https://github.com/user-attachments/assets/b5ce83e2-ff65-4842-a9f7-3016702668ba)
+
+
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ 
  
 **Logic symbol & Truthtable**
 
+![Screenshot (110)](https://github.com/user-attachments/assets/4cdce76a-15de-41f0-a368-5020de1c325a)
+
+
+![Screenshot (115)](https://github.com/user-attachments/assets/c5b46072-51d7-4d0c-b582-92de6ab0f976)
+
+
+
+
 **RTL realization Output:** 
 
-**RTL**
+
+![Screenshot (113)](https://github.com/user-attachments/assets/1b849865-f634-4af3-885c-fe29af836f0f)
+
+
 
 **Result:**
+
+Studied and verified the bascis of logic gates.
 
 
